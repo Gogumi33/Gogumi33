@@ -4,10 +4,10 @@
 </div>
 <div align="center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 👩‍💻 About Me 👩‍💻 </h2>
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;"> Korea Univ. Sejong / Computer
-        Convergence Software</li>
-        <li></li>LCVENTURES Develop Intern</li>
-        <li></li>멋쟁이사자처럼 12기
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;">
+        <p></p>Korea Univ. Sejong / Computer Convergence Software<br>
+        LCVENTURES Develop Intern<br>
+        멋쟁이사자처럼 12기</p>
     </div>
 </div>
 <div align="center">
@@ -47,8 +47,8 @@
 <div align="center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2>
     <div align="center"> <img
-            src="https://github-readme-stats.vercel.app/api?username=Gogumi33&bg_color=180,00000000,&title_color=000000&text_color=000000" />
+            src="https://github-readme-stats.vercel.app/api?username=Gogumi33&theme=cobalt" />
         <img
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gogumi33&layout=compact&bg_color=180,00000000,&title_color=000000&text_color=000000" />
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gogumi33&theme=aura" />
     </div>
 </div>
