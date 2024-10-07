@@ -1,6 +1,6 @@
 <div align="center">
     <img
-        src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&text=HyeongSeok%20Kim&animation=fadeIn&fontColor=07245f&fontSize=40" />
+        src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&text=Hyeongseok%20Kim&animation=fadeIn&fontColor=07245f&fontSize=40" />
 </div>
 <div align="center">
     <h1 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">👩‍💻 About Me 👩‍💻 </h2>
@@ -11,7 +11,7 @@
     </div>
 </div>
 
-<br><br>
+<br>
 
 <div align="center">
     <h1 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> ⛏ Tech Stacks </h2> <br>
@@ -36,10 +36,10 @@
     </div>
 </div>
 
-<br><br>
+<br>
 
 <div align="center">
-    <h1 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 💻 Contact me </h2> <br>
+    <h1 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 💻 Contact Me </h2> <br>
     <div align="center"> <a href=https://velog.io/@king33/posts> <img
                 src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@king33/posts">
         </a>
@@ -50,13 +50,13 @@
     <div align="center"> </div>
 </div>
 
-<br><br>
+<br>
 
 <div align="center">
     <h1 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Github Stats </h2>
     <div align="center">
         <img
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gogumi33&theme=tokyonight" /><br><br>
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gogumi33&theme=tokyonight" /><br>
         <img
             src="https://github-readme-stats.vercel.app/api?username=Gogumi33&theme=cobalt" />
     </div>
