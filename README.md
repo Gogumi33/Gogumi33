@@ -56,7 +56,7 @@
     <h1 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Github Stats </h2>
     <div align="center">
         <img
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gogumi33&theme=tokyonight" /><br>
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gogumi33&theme=radical" /><br>
         <img
             src="https://github-readme-stats.vercel.app/api?username=Gogumi33&theme=cobalt" />
     </div>
