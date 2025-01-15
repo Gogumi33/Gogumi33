@@ -1,6 +1,5 @@
 <div align="center">
-    <img
-        src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&text=Hyeongseok%20Kim&animation=fadeIn&fontColor=07245f&fontSize=40" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hyeongseok%20Kim&fontAlignY=30&fontSize=45&descAlignY=50&descAlign=70&desc=Back-end%20Developer" width="100%">
 </div>
 <div align="center">
     <h1 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">👩‍💻 About Me 👩‍💻 </h2>
