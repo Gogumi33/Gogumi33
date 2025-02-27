@@ -54,7 +54,7 @@
 <div align="center">
     <h1 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Github Stats </h2>
     <p align="center">
-        <img height="180" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=king33"/>
+        <!-- <img height="180" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=king33"/> -->
         <img height="180" src="https://github-readme-stats.vercel.app/api?username=Gogumi33&theme=cobalt" />
         <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gogumi33&theme=radical" /><br>
     </p>
